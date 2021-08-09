@@ -1,0 +1,5 @@
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envio de parametros por refrencia\bin\Debug\Envio de parametros por refrencia.exe
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envio de parametros por refrencia\bin\Debug\Envio de parametros por refrencia.pdb
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envio de parametros por refrencia\obj\Debug\Envio de parametros por refrencia.csprojAssemblyReference.cache
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envio de parametros por refrencia\obj\Debug\Envio de parametros por refrencia.exe
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envio de parametros por refrencia\obj\Debug\Envio de parametros por refrencia.pdb
