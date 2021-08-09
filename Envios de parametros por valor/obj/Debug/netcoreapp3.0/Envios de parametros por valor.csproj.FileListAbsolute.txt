@@ -1,0 +1,11 @@
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\obj\Debug\netcoreapp3.0\Envios de parametros por valor.csprojAssemblyReference.cache
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\obj\Debug\netcoreapp3.0\Envios de parametros por valor.AssemblyInfoInputs.cache
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\obj\Debug\netcoreapp3.0\Envios de parametros por valor.AssemblyInfo.cs
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.exe
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.deps.json
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.runtimeconfig.json
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.runtimeconfig.dev.json
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.dll
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\bin\Debug\netcoreapp3.0\Envios de parametros por valor.pdb
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\obj\Debug\netcoreapp3.0\Envios de parametros por valor.dll
+C:\Users\Ramses Moreno\Documents\GitHub\C-sharp.net\Envios de parametros por valor\obj\Debug\netcoreapp3.0\Envios de parametros por valor.pdb

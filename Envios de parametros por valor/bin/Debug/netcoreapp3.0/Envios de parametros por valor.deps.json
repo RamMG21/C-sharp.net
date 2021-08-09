@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Envios de parametros por valor/1.0.0": {
+        "runtime": {
+          "Envios de parametros por valor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Envios de parametros por valor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
